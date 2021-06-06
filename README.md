@@ -1,23 +1,27 @@
-# Dodatkowe przykłady na potrzeby kursu Angulara
-# Przykład Routingu i pobieraniem danych z json-server
+# AngularMovie
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
-## Więcej informacji:
-- mój kurs na Udemy [https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/](https://www.udemy.com/course/angular-kompletny-kurs-od-podstaw/?referralCode=58A71AA9B0E86A4D8D88)
-- blog: [https://zacznijprogramowac.net/](https://zacznijprogramowac.net/)
-- kanał YT: [https://www.youtube.com/ZacznijProgramowac](https://www.youtube.com/ZacznijProgramowac)
+## Development server
 
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Wymagania projektu
-- Angular CLI & Angular > 9.0.0
-- Node: 12.13.1 lub inna wersja LTS
+## Code scaffolding
 
-## Instalacja Angular CLI w specyficznej wersji
-`npm install -g @angular/cli@9.0.0`
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Zainstalowane dodatki
-- prettier - formatowanie kodu
-- tslint-config-prettier - reguły dla tslint, które nie kłócą się z prettierem
+## Build
 
-## Komendy
-- uruchomienie prettiera `npm run format`
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
